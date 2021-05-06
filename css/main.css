@@ -63,7 +63,7 @@ section{
 }
 
 .btn{
-    cursor: pointer;
+    cursor: auto;
     border-style: none;
     padding: 6px 12px;
     border-radius: 3px;
