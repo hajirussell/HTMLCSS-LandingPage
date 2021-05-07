@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 /***************************************/
-.container{
+.container {
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 1170px;
 }
 
-section{
+section {
     display: flex;
 }
 
@@ -43,26 +43,26 @@ section{
     display: flex;
 }
 
-.flex-column{
+.flex-column {
     flex-direction: column;
 }
 
-.flex-one{
+.flex-one {
     flex: 1;
 }
 
-.align-center{
+.align-center {
     align-items: center;
 }
 
-.center{
+.center {
     justify-content: center;
 }
-.space-between{
+.space-between {
     justify-content: space-between;
 }
 
-.btn{
+.btn {
     cursor: pointer;
     border: 0px;
     padding: 6px 12px;
@@ -70,17 +70,17 @@ section{
     line-height: 1.4;
 }
 
-.btn-default{
+.btn-default {
     color: white;
     background-color: #faa541;
 }
 
-.btn-primary{
+.btn-primary {
     color: white;
     background-color: #364147;
 }
 
-.form-control{
+.form-control {
     display: block;
     padding: 6px 12px;
     border: 1px solid #a0a0a0;
@@ -88,45 +88,45 @@ section{
     line-height: 1.4;
 }
 
-.text-light{
+.text-light {
     font-size: 30px;
     color: #a0a0a0;
 }
 
-.text-secondary{
+.text-secondary {
     font-size: 30px;
     color: #faa541;
 }
 
-.text-primary{
+.text-primary {
     font-size: 16px;
     color: #364147;
 }
 
-.header-nav{
+.header-nav {
     border-bottom: 1px solid #a0a0a0;
 }
 
-.brand{
+.brand {
     width: 170px;
     height: 85px;
     margin-left: -15px;
     margin-right: 60px;
 }
 
-.logo{
+.logo {
     max-width: 100%;
     height: auto;
 }
 
-.search-box{
+.search-box {
     width: 330px;
     height: 30px;
     padding: 6px 12px;
     border: 1px solid #a0a0a0;
 }
 
-.search-button{
+.search-button {
     background-color: #a0a0a0;
     color: #ffffff;
     width: 100px;
@@ -135,40 +135,40 @@ section{
     padding: 0;
 }
 
-.nav-list{
+.nav-list {
     padding-left: 0;
     width: 575px;
     margin-top: 10px;
 }
 
-.nav-list li a{
+.nav-list li a {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 0.2px;
 }
 
-.profile{
+.profile {
     margin-left: auto;
 }
 
-.account{
+.account {
     text-align: right;
     padding: 15px;
     color: #364147;
     font-size: 18px;
 }
 
-.account a{
+.account a {
     font-size: 14px;
 }
 
-.profile-pic{
+.profile-pic {
     width: 60px;
     height: 60px;
 }
 
-.profile img {
+.profile-pic img {
     border-radius: 100px;
     max-width: 100%;
 }
