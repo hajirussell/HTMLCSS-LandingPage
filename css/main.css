@@ -136,7 +136,7 @@ section{
 }
 
 .nav-list{
-    padding: 0;
+    padding-left: 0;
     width: 575px;
     margin-top: 10px;
 }
@@ -145,7 +145,7 @@ section{
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: .2px;
+    letter-spacing: 0.2px;
 }
 
 .profile{
@@ -168,7 +168,7 @@ section{
     height: 60px;
 }
 
-.profile img{
+.profile img {
     border-radius: 100px;
     max-width: 100%;
 }
